@@ -1,0 +1,12 @@
+@media (max-width: 575px)
+{
+    .princinpal{
+        background-color: red;
+    }
+}
+@media(min-width: 576px)
+{
+    .princinpal{
+        background-color: blue;
+    }
+}
